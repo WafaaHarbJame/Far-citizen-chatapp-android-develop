@@ -12,9 +12,9 @@
   },
   {
     "id": 3,
-    "location": "Bogotá",
-    "home_server": "https://bogota.farcitizen.com",
-    "id_server": "https://id.farcitizen.com"
+    "location": "Media Breakfast",
+    "home_server": "https://matrix.mediabreakfast.com",
+    "id_server": ""
   },
   {
     "id": 4,
