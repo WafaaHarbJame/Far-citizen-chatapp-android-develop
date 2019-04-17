@@ -2228,13 +2228,9 @@ public class LoginActivity extends MXCActionBarActivity implements RegistrationM
                     //setActionButtonsEnabled(true);
 
 
-
-
-
-
                 }
-                else  if(parent.getItemAtPosition(position).toString().equals("Bogotá")){
-                    mHomeServerText.setText("https://bogota.farcitizen.com");
+                else  if(parent.getItemAtPosition(position).toString().equals("Media Breakfast")){
+                    mHomeServerText.setText("https://matrix.mediabreakfast.com");
                     mIdentityServerText.setText("https://id.farcitizen.com");
 
 
